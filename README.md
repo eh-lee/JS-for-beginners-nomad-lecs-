@@ -1,8 +1,8 @@
 
-# Chrome Extention Momentum Clone-coding with JS
+## Chrome Extention Momentum Clone-coding with JS
 
-작업기간: 230123-28
-사용언어: html, Javascript, CSS
+### 작업기간: <u>__230123-28__</u>
+### 사용언어: __html__, __Javascript__, __CSS__
 
 + background.js + quotes.js
    - 행렬을 형성하여 랜덤 백그라운드, 송출 문구 지정
@@ -24,6 +24,7 @@
 + weather.js
    - openweathermap의 API를 사용하여 실시간 위치, 날씨, 기온 정보를 표현
 
---
-*notion: https://veiled-may-305.notion.site/javascriptForBeginners-60Lecs-c0c11f1701b54366834f0ecd7724ae28
-*lecture: https://nomadcoders.co/javascript-for-beginners/
+
+> notion: https://veiled-may-305.notion.site/javascriptForBeginners-60Lecs-c0c11f1701b54366834f0ecd7724ae28
+
+> lecture: https://nomadcoders.co/javascript-for-beginners/
