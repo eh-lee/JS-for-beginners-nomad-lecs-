@@ -5,24 +5,30 @@
 ### __JS__
 
 * background.js + quotes.js
-> array randomize
->> Math.random, Math.floor 기능을 사용한 행렬 순번 randomize
+> <u>Make random BG and quotes</u> using Randomize Array
+>> (): Math.random, Math.floor
 
 * clock.js
-> Date 객체를 사용하여 날짜, 시간 관련 정보 표현
->> setInterval, setTimeout: 일정주기, 일정 시간 이후로 실행되는 타이머 설정
+> <u>Make a clock</U> with Constructor function 'Date()'
+>> (): getClock, setInterval, padstart,  setTimeout: 일정주기, 일정 시간 이후로 실행되는 타이머 설정
 
-* login.js
-> submit event가 발생할 시, localstorage에 유저 정보 저장
->> 유저 정보 저장 유무에 따라 기존의 form을 hidden, 이후 greeting message를 보이게 함
+* greetings.js
+> <u>Make login manager</u>
+>> key: submit event occurred, save username on local storage.
+>> key2: add and remove <u>user value</u> and <u>greetings</u> with 'hidden'(css)
 
 * todo.js
-> 유저로부터 submit된 value를 localstorage에 string화한 객체(id와 todo)배열로 저장
->> localstorage에 저장된 정보의 유무로 li 표현
->> li의 추가 및 삭제 기능
+> <u>to-do-list manager</u> 
+>> key: manage submitted value from user as a array.
+>>> (): JSON.stringnify, JSON.parse, parseInt
+>>> (): forEach, appendChild
 
 * weather.js
-> openweathermap의 API를 사용하여 실시간 위치, 날씨, 기온 정보를 표현
+> <u>Show city, weather and temperature</U>
+>> key: using openweathermap API and user geolocation.
+>>> (): fetch, response.json
+>>> (): navigator.geolocation.getCurrentPosition
+
 ---
 ### ref.
 - notion: https://veiled-may-305.notion.site/javascriptForBeginners-60Lecs-c0c11f1701b54366834f0ecd7724ae28
