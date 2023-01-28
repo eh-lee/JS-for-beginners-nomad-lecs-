@@ -1,15 +1,15 @@
 
 ## Chrome Extention Momentum Clone-coding with JS
-##### 작업기간: <u>__230123-28__</u>. |  사용언어: __html__, __Javascript__, __CSS__
+##### Date: <u>__230123-28__</u> |  Lang: __html__, __Javascript__, __CSS__
 ---
 
 + background.js + quotes.js
-   - 행렬을 형성하여 랜덤 백그라운드, 송출 문구 지정
-   - Math.random, Math.floor 기능을 사용한 행렬 순번 randomize
+   - array randomize
+     - Math.random, Math.floor 기능을 사용한 행렬 순번 randomize
 
 + clock.js
    - Date 객체를 사용하여 날짜, 시간 관련 정보 표현
-   - setInterval, setTimeout: 일정주기, 일정 시간 이후로 실행되는 타이머 설정
+     - setInterval, setTimeout: 일정주기, 일정 시간 이후로 실행되는 타이머 설정
 
 + login.js
    - submit event가 발생할 시, localstorage에 유저 정보 저장
