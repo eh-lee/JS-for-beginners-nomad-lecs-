@@ -27,4 +27,5 @@
 
 > ref.
 >> notion: https://veiled-may-305.notion.site/javascriptForBeginners-60Lecs-c0c11f1701b54366834f0ecd7724ae28
+>> 
 >> lecture: https://nomadcoders.co/javascript-for-beginners/
