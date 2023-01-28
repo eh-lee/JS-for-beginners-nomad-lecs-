@@ -2,7 +2,6 @@
 ## Chrome Extention Momentum Clone-coding with JS
 ##### Date: <u>__230123-28__</u> |  Lang: __html__, __Javascript__, __CSS__
 ---
-
 ### __JS__
 
 * background.js + quotes.js
@@ -24,8 +23,7 @@
 
 * weather.js
 > openweathermap의 API를 사용하여 실시간 위치, 날씨, 기온 정보를 표현
-
-
-+ ref.
+---
+### ref.
 - notion: https://veiled-may-305.notion.site/javascriptForBeginners-60Lecs-c0c11f1701b54366834f0ecd7724ae28
 - lecture: https://nomadcoders.co/javascript-for-beginners/
