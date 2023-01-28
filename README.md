@@ -1,7 +1,6 @@
 
 ## Chrome Extention Momentum Clone-coding with JS
-##### 작업기간: <u>__230123-28__</u>
-##### #사용언어: __html__, __Javascript__, __CSS__
+##### 작업기간: <u>__230123-28__</u>. |  사용언어: __html__, __Javascript__, __CSS__
 ---
 
 + background.js + quotes.js
